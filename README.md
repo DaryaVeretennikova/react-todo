@@ -1,3 +1,3 @@
 # react-todo
 
-[See](https://www.DaryaVeretennikova.github.io/react-todo/index.html)
+[See](DaryaVeretennikova.github.io/react-todo/index.html)
